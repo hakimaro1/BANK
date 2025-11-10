@@ -1,0 +1,8 @@
+E:\LabsItmo\Lab08\STARTER\BANK\obj\Debug\Bank.csproj.AssemblyReference.cache
+E:\LabsItmo\Lab08\STARTER\BANK\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+E:\LabsItmo\Lab08\STARTER\BANK\bin\Debug\MoreMethods.exe.config
+E:\LabsItmo\Lab08\STARTER\BANK\bin\Debug\MoreMethods.exe
+E:\LabsItmo\Lab08\STARTER\BANK\bin\Debug\MoreMethods.pdb
+E:\LabsItmo\Lab08\STARTER\BANK\obj\Debug\MoreMethods.exe
+E:\LabsItmo\Lab08\STARTER\BANK\obj\Debug\MoreMethods.pdb
+E:\LabsItmo\Lab08\STARTER\BANK\obj\Debug\MoreMethods.exe.config
