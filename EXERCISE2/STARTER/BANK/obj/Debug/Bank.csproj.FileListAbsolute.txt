@@ -1,0 +1,12 @@
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\C#_осень_2018\Labs_2018_\Lab11\EXERCISE2\STARTER\BANK\bin\Debug\Bank.exe
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\C#_осень_2018\Labs_2018_\Lab11\EXERCISE2\STARTER\BANK\bin\Debug\Bank.pdb
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\C#_осень_2018\Labs_2018_\Lab11\EXERCISE2\STARTER\BANK\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\C#_осень_2018\Labs_2018_\Lab11\EXERCISE2\STARTER\BANK\obj\Debug\Bank.exe
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\C#_осень_2018\Labs_2018_\Lab11\EXERCISE2\STARTER\BANK\obj\Debug\Bank.pdb
+E:\BANK\EXERCISE2\STARTER\BANK\obj\Debug\Bank.csproj.AssemblyReference.cache
+E:\BANK\EXERCISE2\STARTER\BANK\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+E:\BANK\EXERCISE2\STARTER\BANK\obj\Debug\Bank.exe
+E:\BANK\EXERCISE2\STARTER\BANK\obj\Debug\Bank.pdb
+E:\BANK\EXERCISE2\STARTER\BANK\bin\Debug\Bank.exe.config
+E:\BANK\EXERCISE2\STARTER\BANK\bin\Debug\Bank.exe
+E:\BANK\EXERCISE2\STARTER\BANK\bin\Debug\Bank.pdb

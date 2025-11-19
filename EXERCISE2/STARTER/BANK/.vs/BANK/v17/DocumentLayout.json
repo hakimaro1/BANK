@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\BANK\\EXERCISE2\\STARTER\\BANK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE64DDB7-892C-4C58-AF09-1FF08C7CA0A9}|Bank.csproj|e:\\bank\\exercise2\\starter\\bank\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE64DDB7-892C-4C58-AF09-1FF08C7CA0A9}|Bank.csproj|solutionrelative:createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE64DDB7-892C-4C58-AF09-1FF08C7CA0A9}|Bank.csproj|e:\\bank\\exercise2\\starter\\bank\\banktransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE64DDB7-892C-4C58-AF09-1FF08C7CA0A9}|Bank.csproj|solutionrelative:banktransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE64DDB7-892C-4C58-AF09-1FF08C7CA0A9}|Bank.csproj|e:\\bank\\exercise2\\starter\\bank\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE64DDB7-892C-4C58-AF09-1FF08C7CA0A9}|Bank.csproj|solutionrelative:bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE64DDB7-892C-4C58-AF09-1FF08C7CA0A9}|Bank.csproj|e:\\bank\\exercise2\\starter\\bank\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE64DDB7-892C-4C58-AF09-1FF08C7CA0A9}|Bank.csproj|solutionrelative:bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE64DDB7-892C-4C58-AF09-1FF08C7CA0A9}|Bank.csproj|e:\\bank\\exercise2\\starter\\bank\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE64DDB7-892C-4C58-AF09-1FF08C7CA0A9}|Bank.csproj|solutionrelative:accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 352,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankTransaction.cs",
+              "DocumentMoniker": "E:\\BANK\\EXERCISE2\\STARTER\\BANK\\BANKTRANSACTION.CS",
+              "RelativeDocumentMoniker": "BANKTRANSACTION.CS",
+              "ToolTip": "E:\\BANK\\EXERCISE2\\STARTER\\BANK\\BANKTRANSACTION.CS",
+              "RelativeToolTip": "BANKTRANSACTION.CS",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T18:20:35.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "E:\\BANK\\EXERCISE2\\STARTER\\BANK\\BANKACCOUNT.CS",
+              "RelativeDocumentMoniker": "BANKACCOUNT.CS",
+              "ToolTip": "E:\\BANK\\EXERCISE2\\STARTER\\BANK\\BANKACCOUNT.CS",
+              "RelativeToolTip": "BANKACCOUNT.CS",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAUwHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T18:20:21.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "E:\\BANK\\EXERCISE2\\STARTER\\BANK\\BANK.CS",
+              "RelativeDocumentMoniker": "BANK.CS",
+              "ToolTip": "E:\\BANK\\EXERCISE2\\STARTER\\BANK\\BANK.CS",
+              "RelativeToolTip": "BANK.CS",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T18:20:05.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountType.cs",
+              "DocumentMoniker": "E:\\BANK\\EXERCISE2\\STARTER\\BANK\\ACCOUNTTYPE.CS",
+              "RelativeDocumentMoniker": "ACCOUNTTYPE.CS",
+              "ToolTip": "E:\\BANK\\EXERCISE2\\STARTER\\BANK\\ACCOUNTTYPE.CS",
+              "RelativeToolTip": "ACCOUNTTYPE.CS",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T18:19:51.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateAccount.cs",
+              "DocumentMoniker": "E:\\BANK\\EXERCISE2\\STARTER\\BANK\\CREATEACCOUNT.CS",
+              "RelativeDocumentMoniker": "CREATEACCOUNT.CS",
+              "ToolTip": "E:\\BANK\\EXERCISE2\\STARTER\\BANK\\CREATEACCOUNT.CS",
+              "RelativeToolTip": "CREATEACCOUNT.CS",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T18:04:51.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

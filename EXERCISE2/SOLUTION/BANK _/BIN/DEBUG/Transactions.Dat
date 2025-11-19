@@ -1,0 +1,11 @@
+Account number is 123
+Account balance is 2
+Account type is Checking
+Transactions:
+Date/Time: 21.11.2018 12:02:23	Amount: 2
+Account number is 123
+Account balance is 0
+Account type is Checking
+Transactions:
+Date/Time: 21.11.2018 12:19:25	Amount: 2
+Date/Time: 21.11.2018 12:19:26	Amount: -2
