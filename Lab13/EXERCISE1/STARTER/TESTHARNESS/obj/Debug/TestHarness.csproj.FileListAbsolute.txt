@@ -1,0 +1,2 @@
+E:\BANK\Lab13\EXERCISE1\STARTER\TESTHARNESS\obj\Debug\TestHarness.csproj.AssemblyReference.cache
+E:\BANK\Lab13\EXERCISE1\STARTER\TESTHARNESS\obj\Debug\TestHarness.csproj.CoreCompileInputs.cache

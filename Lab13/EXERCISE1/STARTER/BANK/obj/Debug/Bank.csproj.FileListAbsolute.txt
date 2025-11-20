@@ -1,0 +1,6 @@
+C:\Users\sanya\BankProject\Lab13\EXERCISE1\STARTER\BANK\bin\Debug\Bank.dll
+C:\Users\sanya\BankProject\Lab13\EXERCISE1\STARTER\BANK\bin\Debug\Bank.pdb
+C:\Users\sanya\BankProject\Lab13\EXERCISE1\STARTER\BANK\obj\Debug\Bank.csproj.AssemblyReference.cache
+C:\Users\sanya\BankProject\Lab13\EXERCISE1\STARTER\BANK\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\sanya\BankProject\Lab13\EXERCISE1\STARTER\BANK\obj\Debug\Bank.dll
+C:\Users\sanya\BankProject\Lab13\EXERCISE1\STARTER\BANK\obj\Debug\Bank.pdb

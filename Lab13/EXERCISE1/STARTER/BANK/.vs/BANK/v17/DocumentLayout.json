@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sanya\\BankProject\\Lab13\\EXERCISE1\\STARTER\\BANK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE64DDB7-892C-4C58-AF09-1FF08C7CA0A9}|Bank.csproj|c:\\users\\sanya\\bankproject\\lab13\\exercise1\\starter\\bank\\banktransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE64DDB7-892C-4C58-AF09-1FF08C7CA0A9}|Bank.csproj|solutionrelative:banktransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE64DDB7-892C-4C58-AF09-1FF08C7CA0A9}|Bank.csproj|C:\\Users\\sanya\\BankProject\\Lab13\\EXERCISE1\\STARTER\\BANK\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE64DDB7-892C-4C58-AF09-1FF08C7CA0A9}|Bank.csproj|solutionrelative:accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 352,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankTransaction.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\BankProject\\Lab13\\EXERCISE1\\STARTER\\BANK\\BANKTRANSACTION.CS",
+              "RelativeDocumentMoniker": "BANKTRANSACTION.CS",
+              "ToolTip": "C:\\Users\\sanya\\BankProject\\Lab13\\EXERCISE1\\STARTER\\BANK\\BANKTRANSACTION.CS",
+              "RelativeToolTip": "BANKTRANSACTION.CS",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:32:00.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountType.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\BankProject\\Lab13\\EXERCISE1\\STARTER\\BANK\\ACCOUNTTYPE.CS",
+              "RelativeDocumentMoniker": "ACCOUNTTYPE.CS",
+              "ToolTip": "C:\\Users\\sanya\\BankProject\\Lab13\\EXERCISE1\\STARTER\\BANK\\ACCOUNTTYPE.CS",
+              "RelativeToolTip": "ACCOUNTTYPE.CS",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:31:21.615Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

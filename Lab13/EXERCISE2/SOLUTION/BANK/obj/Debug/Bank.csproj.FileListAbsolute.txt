@@ -1,0 +1,10 @@
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\C#_осень_2018\Labs_2018_\Lab13\EXERCISE2\SOLUTION\BANK\bin\Debug\Bank.dll
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\C#_осень_2018\Labs_2018_\Lab13\EXERCISE2\SOLUTION\BANK\bin\Debug\Bank.pdb
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\C#_осень_2018\Labs_2018_\Lab13\EXERCISE2\SOLUTION\BANK\obj\Debug\Bank.dll
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\C#_осень_2018\Labs_2018_\Lab13\EXERCISE2\SOLUTION\BANK\obj\Debug\Bank.pdb
+C:\Users\sanya\BankProject\Lab13\EXERCISE2\SOLUTION\BANK\bin\Debug\Bank.dll
+C:\Users\sanya\BankProject\Lab13\EXERCISE2\SOLUTION\BANK\bin\Debug\Bank.pdb
+C:\Users\sanya\BankProject\Lab13\EXERCISE2\SOLUTION\BANK\obj\Debug\Bank.csproj.AssemblyReference.cache
+C:\Users\sanya\BankProject\Lab13\EXERCISE2\SOLUTION\BANK\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\sanya\BankProject\Lab13\EXERCISE2\SOLUTION\BANK\obj\Debug\Bank.dll
+C:\Users\sanya\BankProject\Lab13\EXERCISE2\SOLUTION\BANK\obj\Debug\Bank.pdb
